@@ -10,7 +10,7 @@ else:
     print("England")
 
 
- input()
+ int(input())
 
 
 

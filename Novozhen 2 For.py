@@ -15,7 +15,7 @@ else:
     print(element, 'is not in the list')
 
 
-input ()
+int(input())
 
 
 

@@ -6,7 +6,7 @@ a = input()
 print(a)
 
 
-input()
+int(input())
 
 
 
